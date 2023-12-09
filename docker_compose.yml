@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  web:
+    container_name: trabalho2023
+    build: .
+    ports:
+      - "8001:8000"

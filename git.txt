@@ -1,8 +1,8 @@
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB6C9RT7fLPqRa0cdFZJlsnMFgtmgcDbWQz9vfYySG0Y laizascaramussa@gmail.com
 
-    git init
-    git add README.md
-    git commit -m "first commit"
-    git branch -M main
-    git remote add origin https://github.com/LaizaScaramussa/trabalho2023.git
-    git push -u origin main
+   git init
+   git add README.md
+   git commit -m "first commit"
+   git branch -M main
+   git remote add origin git@github.com:LaizaScaramussa/trabalho2023.git
+   git push -u origin main

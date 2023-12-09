@@ -24,5 +24,5 @@ app.include_router(rootRouter)
 app.include_router(usuarioRouter)
 app.include_router(produtoRouter)
 
-if __name__ == "__main__":
-    uvicorn.run(app="main:app", reload=True, port=8001)
+# if __name__ == "__main__":
+#     uvicorn.run(app="main:app", reload=True, port=8001)
